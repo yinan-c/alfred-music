@@ -8,4 +8,4 @@ A simple bonus for controlling your music.app.
 
 ## Thanks
 - [Doug's AppleScripts](https://dougscripts.com/itunes/index.php)
-- [Vector Icons and Stickers](https://www.flaticon.com/)
+- [Freepik on flaticon.com](https://www.flaticon.com/authors/freepik)
